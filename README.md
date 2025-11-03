@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - **Image Extraction:** Upload and process image files directly from the UI.  
-- **Training Image:** For vairous industrial QA checking of parts, first we train it with acutal working part branding text on the parts. Few parts also contains icons for user users to understand the use of parts.
+- **Training Image:** For vairous industrial QA checking of parts, first we train it with acutal part branding text on the parts. Few parts also contains icons for user users to understand the use of parts.
 So we can train those icons and working part image properties with the correct parts.  
 - **Pattern Recognition:** Uses **Matrix Vision API** for advanced pattern-matching and object recognition and validating with the correct parts.  
 - **Text Detection:** Converts image text to editable and searchable digital format.  
