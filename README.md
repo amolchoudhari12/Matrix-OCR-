@@ -7,7 +7,9 @@
 ## 🚀 Features
 
 - **Image Extraction:** Upload and process image files directly from the UI.  
-- **Pattern Recognition:** Uses **Matrix Vision API** for advanced pattern-matching and object recognition.  
+- **Training Image:** For vairous industrial QA checking of parts, first we train it with acutal working part branding text on the parts. Few parts also contains icons for user users to understand the use of parts.
+So we can train those icons and working part image properties with the correct parts.  
+- **Pattern Recognition:** Uses **Matrix Vision API** for advanced pattern-matching and object recognition and validating with the correct parts.  
 - **Text Detection:** Converts image text to editable and searchable digital format.  
 - **Intuitive UI:** Built with a focus on simplicity and productivity.  
 - **Configurable API Integration:** Supports external configuration for API credentials and parameters.
@@ -17,7 +19,7 @@
 ## 🧩 Tech Stack
 
 - **Language:** C# (.NET Framework / .NET 6)  
-- **UI Framework:** Windows Forms / WPF *(depending on project type)*  
+- **UI Framework:** Windows Forms *  
 - **API Integration:** Matrix Vision third-party service  
 - **Image Handling:** System.Drawing, OpenCV (if applicable)  
 
