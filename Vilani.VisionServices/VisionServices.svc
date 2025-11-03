@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Vilani.VisionServices.VisionServices" CodeBehind="VisionServices.svc.cs" %>

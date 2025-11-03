@@ -1,0 +1,27 @@
+2016-09-25 10:45:56,862 [9] ERROR Vilani.MatrixVision.MainContainer - Logging framework started
+2016-09-25 10:45:56,893 [9] DEBUG Vilani.MatrixVision.MainContainer - -----Ready to process the image.-------
+2016-09-25 10:46:01,464 [24] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatch
+2016-09-25 10:46:54,786 [10] ERROR Vilani.MatrixVision.MainContainer - Logging framework started
+2016-09-25 10:46:54,802 [10] DEBUG Vilani.MatrixVision.MainContainer - -----Ready to process the image.-------
+2016-09-25 10:46:56,605 [21] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatch
+2016-09-25 14:45:45,760 [9] ERROR Vilani.MatrixVision.MainContainer - Logging framework started
+2016-09-25 14:45:45,781 [9] DEBUG Vilani.MatrixVision.MainContainer - -----Ready to process the image.-------
+2016-09-25 14:45:47,732 [24] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatch
+2016-09-25 14:45:52,148 [22] ERROR Vilani.MatrixVision.Core.VisionCameraThread - Overall Error: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at Vilani.MatrixVision.Core.VisionCameraThread.StartSerialMonitorNew() in d:\VilaniRepositary\Technical\SourceCode\branches\trunk\Vilani.MatrixVision\Vilani.MatrixVision\Core\VisionCameraThread.cs:line 357
+2016-09-25 14:45:52,179 [24] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatchThread was being aborted.
+2016-09-25 16:09:22,691 [10] ERROR Vilani.MatrixVision.MainContainer - Logging framework started
+2016-09-25 16:09:22,706 [10] DEBUG Vilani.MatrixVision.MainContainer - -----Ready to process the image.-------
+2016-09-25 16:09:24,556 [20] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatch
+2016-09-25 16:09:26,730 [20] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatchThread was being aborted.
+2016-09-25 16:09:26,730 [19] ERROR Vilani.MatrixVision.Core.VisionCameraThread - Overall Error: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at Vilani.MatrixVision.Core.VisionCameraThread.StartSerialMonitorNew() in d:\VilaniRepositary\Technical\SourceCode\branches\trunk\Vilani.MatrixVision\Vilani.MatrixVision\Core\VisionCameraThread.cs:line 357
+2016-09-25 16:09:57,453 [9] ERROR Vilani.MatrixVision.MainContainer - Logging framework started
+2016-09-25 16:09:57,485 [9] DEBUG Vilani.MatrixVision.MainContainer - -----Ready to process the image.-------
+2016-09-25 16:09:59,485 [22] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatch
+2016-09-25 16:10:00,167 [21] ERROR Vilani.MatrixVision.Core.VisionCameraThread - Overall Error: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at Vilani.MatrixVision.Core.VisionCameraThread.StartSerialMonitorNew() in d:\VilaniRepositary\Technical\SourceCode\branches\trunk\Vilani.MatrixVision\Vilani.MatrixVision\Core\VisionCameraThread.cs:line 355
+2016-09-25 16:10:00,172 [22] DEBUG Vilani.MatrixVision.Core.VisionCameraThread - Starting PatternMatchThread was being aborted.
